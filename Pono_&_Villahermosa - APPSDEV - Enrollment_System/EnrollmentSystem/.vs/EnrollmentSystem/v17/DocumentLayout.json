@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\controller\\enrollmententrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\controller\\enrollmententrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|c:\\users\\dell\\desktop\\bsit college - pono\\bsit 2nd year - 2nd sem\\appsdev22\\prelim\\enrollmentsystem\\enrollmentsystem\\controller\\enrollmententrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\controller\\enrollmententrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EnrollmentSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\sidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\sidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\sidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\sidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\controller\\subjectentrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\controller\\subjectentrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\controller\\subjectentrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\controller\\subjectentrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\controller\\studentgradecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\controller\\studentgradecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\controller\\studentgradecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\controller\\studentgradecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\controller\\studententrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\controller\\studententrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\controller\\studententrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\controller\\studententrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\controller\\scheduleentrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\controller\\scheduleentrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\controller\\scheduleentrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\controller\\scheduleentrycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\repo\\enrollmententrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\repo\\enrollmententrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\sidebar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\sidebar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\subjectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\subjectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\subjectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\subjectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\repo\\scheduleentrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\repo\\scheduleentrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\enrollmentsystem\\repo\\studentgradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|solutionrelative:enrollmentsystem\\repo\\studentgradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EE9907-973B-4BDF-B4E8-6834812256C7}|EnrollmentSystem\\EnrollmentSystem.csproj|c:\\users\\dell\\desktop\\bsit college - pono\\bsit 2nd year - 2nd sem\\appsdev22\\prelim\\enrollmentsystem\\enrollmentsystem\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\packages.config",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\packages.config",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\packages.config",
+              "RelativeToolTip": "EnrollmentSystem\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-13T15:58:04.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Program.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:57:26.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\App.config",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\App.config",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\App.config",
+              "RelativeToolTip": "EnrollmentSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-13T15:57:23.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnrollmentEntryControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\EnrollmentEntryControl.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Controller\\EnrollmentEntryControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\EnrollmentEntryControl.cs [Design]",
+              "RelativeToolTip": "EnrollmentSystem\\Controller\\EnrollmentEntryControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:12:49.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentEntryControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\EnrollmentEntryControl.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Controller\\EnrollmentEntryControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\EnrollmentEntryControl.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Controller\\EnrollmentEntryControl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:13:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:59:58.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollmentSystem",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\EnrollmentSystem.csproj",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\EnrollmentSystem.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\EnrollmentSystem.csproj",
+              "RelativeToolTip": "EnrollmentSystem\\EnrollmentSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T15:57:59.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sidebar.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Sidebar.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Sidebar.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Sidebar.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Sidebar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:17:38.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sidebar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Sidebar.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Sidebar.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Sidebar.cs [Design]",
+              "RelativeToolTip": "EnrollmentSystem\\Sidebar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:32:17.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubjectEntryControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\SubjectEntryControl.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Controller\\SubjectEntryControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\SubjectEntryControl.cs [Design]",
+              "RelativeToolTip": "EnrollmentSystem\\Controller\\SubjectEntryControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:46:00.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentGradeControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\StudentGradeControl.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Controller\\StudentGradeControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\StudentGradeControl.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Controller\\StudentGradeControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:29:33.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubjectEntryControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\SubjectEntryControl.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Controller\\SubjectEntryControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\SubjectEntryControl.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Controller\\SubjectEntryControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:49:19.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentGradeControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\StudentGradeControl.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Controller\\StudentGradeControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\StudentGradeControl.cs [Design]",
+              "RelativeToolTip": "EnrollmentSystem\\Controller\\StudentGradeControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:18:48.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentEntryControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\StudentEntryControl.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Controller\\StudentEntryControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\StudentEntryControl.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Controller\\StudentEntryControl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:40:52.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentEntryControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\StudentEntryControl.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Controller\\StudentEntryControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\StudentEntryControl.cs [Design]",
+              "RelativeToolTip": "EnrollmentSystem\\Controller\\StudentEntryControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:23:05.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScheduleEntryControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\ScheduleEntryControl.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Controller\\ScheduleEntryControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\ScheduleEntryControl.cs [Design]",
+              "RelativeToolTip": "EnrollmentSystem\\Controller\\ScheduleEntryControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:28:02.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScheduleEntryControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\ScheduleEntryControl.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Controller\\ScheduleEntryControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Controller\\ScheduleEntryControl.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Controller\\ScheduleEntryControl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:28:07.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sidebar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Sidebar.Designer.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Sidebar.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Sidebar.Designer.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Sidebar.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:42:46.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnrollmentEntryData.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Repo\\EnrollmentEntryData.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Repo\\EnrollmentEntryData.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Repo\\EnrollmentEntryData.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Repo\\EnrollmentEntryData.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAewPYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:11:02.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubjectList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\SubjectList.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\SubjectList.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\SubjectList.cs [Design]",
+              "RelativeToolTip": "EnrollmentSystem\\SubjectList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:47:10.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SubjectList.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\SubjectList.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\SubjectList.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\SubjectList.cs",
+              "RelativeToolTip": "EnrollmentSystem\\SubjectList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:05:26.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScheduleEntryData.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Repo\\ScheduleEntryData.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Repo\\ScheduleEntryData.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Repo\\ScheduleEntryData.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Repo\\ScheduleEntryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:31:36.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentGradeData.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Repo\\StudentGradeData.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystem\\Repo\\StudentGradeData.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\BSIT COLLEGE - PONO\\BSIT 2nd Year - 2nd Sem\\APPSDEV22\\Prelim\\EnrollmentSystem\\EnrollmentSystem\\Repo\\StudentGradeData.cs",
+              "RelativeToolTip": "EnrollmentSystem\\Repo\\StudentGradeData.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:32:13.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
